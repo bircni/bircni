@@ -7,5 +7,8 @@
 ### My Repositories
 
 <a href="https://github.com/bircni/wordgesser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=wordgesser&layout=compact&theme=dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=wordgesser&layout=compact&theme=dark" />
+</a>
+<a href="https://github.com/bircni/programmieren1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=programmieren1&layout=compact&theme=dark" />
 </a>
