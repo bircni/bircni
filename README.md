@@ -1,8 +1,4 @@
-### Hi there 👋
-
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=bircni&count_private=true&show_icons=true&theme=dark&hide=prs,issues)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bircni&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# Hi there 👋
 
 ### My Repositories
 
@@ -12,3 +8,31 @@
 <a href="https://github.com/bircni/programmieren1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=programmieren1&layout=compact&theme=dark" />
 </a>
+
+<p><br>
+<details>
+  <summary>GitHub Stats</summary>
+
+[![GitHub Stats Card]](https://github.com/bircni)
+
+</details>
+
+<details>
+  <summary>GitHub Trophies</summary>
+
+[![GitHub Trophies]](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
+
+<details>
+  <summary>GitHub Top Langs</summary>
+
+[![GitHub Top Langs]](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
+
+<!-- Links -->
+
+[github stats card]: https://github-readme-stats.vercel.app/api/?username=bircni&layout=compact&theme=dark
+[github trophies]: https://github-profile-trophy.vercel.app/?username=bircni&column=3&row=3&margin-w=18&margin-h=15&no-bg=true&title=Joined2020,Commits,Followers,Issues,Repositories
+[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=bircni&layout=compact&theme=dark
