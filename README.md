@@ -10,8 +10,8 @@
 <a href="https://github.com/bircni/Christmas-Countdown-Scriptable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=Christmas-Countdown-Scriptable&layout=compact&theme=dark" />
 </a>
-<a href="https://github.com/bircni/THU-SS22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=THU-SS22&layout=compact&theme=dark" />
+<a href="https://github.com/toiletcoders/THU-Summary-SS22">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toiletcoders&repo=THU-Summary-SS22&layout=compact&theme=dark" />
 </a>
 </div>
 <hr />
