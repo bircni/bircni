@@ -15,8 +15,8 @@
 </a>
 </div>
 <hr />
-<p><br>
 
+<div align="center"> 
 <details>
   <summary>GitHub Stats</summary>
 
@@ -44,7 +44,7 @@
 [![Wakatime]](https://wakatime.com/@bircni)
 
 </details>
-
+</div>
 <!-- Links -->
 
 [github stats card]: https://github-readme-stats.vercel.app/api/?username=bircni&layout=compact&theme=dark&count_private=true
