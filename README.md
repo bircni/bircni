@@ -2,16 +2,16 @@
 <h1 align="center">My Repositories</h1>
 <div align="center">
 <a href="https://github.com/bircni/wordgesser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=wordgesser&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=wordgesser&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </a>
 <a href="https://github.com/bircni/programmieren1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=programmieren1&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=programmieren1&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </a>
 <a href="https://github.com/bircni/Christmas-Countdown-Scriptable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=Christmas-Countdown-Scriptable&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=Christmas-Countdown-Scriptable&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </a>
 <a href="https://github.com/toiletcoders/THU-Summary-SS22">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toiletcoders&repo=THU-Summary-SS22&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toiletcoders&repo=THU-Summary-SS22&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </a>
 </div>
 <hr />
