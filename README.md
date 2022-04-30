@@ -21,6 +21,8 @@
   <summary>GitHub Stats</summary>
 
 [![GitHub Stats Card]](https://github.com/bircni)
+  <br>
+[![GitHub Streak]](https://git.io/streak-stats)
 
 </details>
 
@@ -47,7 +49,8 @@
 </div>
 <!-- Links -->
 
-[github stats card]: https://github-readme-stats.vercel.app/api/?username=bircni&layout=compact&theme=dark&count_private=true
-[github trophies]: https://github-profile-trophy.vercel.app/?username=bircni&column=3&row=3&margin-w=18&margin-h=15&no-bg=true&title=Joined2020,Commits,Followers,Issues,Repositories
-[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=bircni&layout=compact&theme=dark&count_private=true
-[Wakatime]: https://github-readme-stats.vercel.app/api/wakatime?username=bircni&theme=dark
+[github stats card]: https://github-readme-stats.vercel.app/api/?username=bircni&layout=compact&theme=chartreuse-dark&hide_border=true&count_private=true
+[github trophies]: https://github-profile-trophy.vercel.app/?username=bircni&column=3&row=3&margin-w=18&margin-h=15&no-bg=true&title=Joined2020,Commits,Followers,Issues,Repositories&theme=dark
+[github top langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=bircni&layout=compact&theme=chartreuse-dark&hide_border=true&count_private=true
+[Wakatime]: https://github-readme-stats.vercel.app/api/wakatime?username=bircni&theme=chartreuse-dark&hide_border=true
+[GitHub Streak]: http://github-readme-streak-stats.herokuapp.com?user=bircni&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D
