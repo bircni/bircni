@@ -1,4 +1,4 @@
-
+[![GitHub followers](https://img.shields.io/github/followers/bircni.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/bircni?tab=followers)
 <h1 align="center">My Repositories</h1>
 <div align="center">
 <a href="https://github.com/bircni/wordgesser">
