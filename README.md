@@ -4,8 +4,8 @@
 <a href="https://github.com/bircni/wordgesser">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=wordgesser&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </a>
-<a href="https://github.com/bircni/programmieren1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=programmieren1&layout=compact&theme=chartreuse-dark&hide_border=true" />
+<a href="https://github.com/bircni/programmieren">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=programmieren&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </a>
 <a href="https://github.com/bircni/Christmas-Countdown-Scriptable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=Christmas-Countdown-Scriptable&layout=compact&theme=chartreuse-dark&hide_border=true" />
