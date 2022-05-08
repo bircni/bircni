@@ -7,8 +7,8 @@
 <a href="https://github.com/bircni/programmieren">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=programmieren&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </a>
-<a href="https://github.com/bircni/Christmas-Countdown-Scriptable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=Christmas-Countdown-Scriptable&layout=compact&theme=chartreuse-dark&hide_border=true" />
+<a href="https://github.com/bircni/Apps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bircni&repo=Apps&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </a>
 <a href="https://github.com/toiletcoders/THU-Summary-SS22">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=toiletcoders&repo=THU-Summary-SS22&layout=compact&theme=chartreuse-dark&hide_border=true" />
