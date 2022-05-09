@@ -1,6 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/bircni.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/bircni?tab=followers)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fabus1184&label=Profile%20views&color=0e75b6&style=flat" alt="bircni" /> </p>
+<!-- ![Views](https://komarev.com/ghpvc/?username=bircni&label=Profile%20views&color=0e75b6&style=flat) -->
 
 <h1 align="center">My Repositories</h1>
 <div align="center">
