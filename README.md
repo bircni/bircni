@@ -3,13 +3,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
-    
 ![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
   
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
+<!--![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)
 ![Signal](https://img.shields.io/badge/Signal-%23039BE5.svg?logo=Signal&logoColor=white)
@@ -17,7 +16,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white)
 ![IOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) -->
   
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 [![GitHub followers](https://img.shields.io/github/followers/bircni.svg?style=social&label=Follow&maxAge=2592000#annee=BlackLotus)](https://github.com/bircni?tab=followers)
