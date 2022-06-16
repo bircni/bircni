@@ -1,10 +1,10 @@
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-black?logo=clion&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
   
