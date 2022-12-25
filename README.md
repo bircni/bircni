@@ -9,7 +9,7 @@
 <div align="center"> 
 
 <p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/bircni/bircni/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 
