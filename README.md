@@ -14,8 +14,3 @@
 <div align="center"> 
 
 -->
-<div align="center">
-
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=grxnkmt1v7773n1mgqzzbxzcj&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=grxnkmt1v7773n1mgqzzbxzcj&cover_image=false&theme=compact&show_offline=true&background_color=121212)
-
-</div>
