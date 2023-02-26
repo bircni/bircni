@@ -42,6 +42,6 @@
 </a>
 </p>
 
-<center>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bircni&show_icons=true&theme=dark&locale=en&layout=compact" alt="bircni" />
-</center>
+</p>
