@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Java, Latex, HTML developer from Germany</h2>
 
 <p align="center">
-  <img src="https://github.com/bircni/bircni/raw/output/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img src="https://github.com/bircni/bircni/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
