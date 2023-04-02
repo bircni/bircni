@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h2 align="center">A passionate Java, Latex, HTML developer from Germany</h2>
+<h2 align="center">A passionate Java, Latex, HTML (& Swift) developer from Germany</h2>
 
 <p align="center">
   <img src="https://github.com/bircni/bircni/raw/output/github-contribution-grid-snake.svg" alt="snake">
@@ -41,7 +41,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 </p>
-
+<!--
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bircni&show_icons=true&theme=dark&locale=en&layout=compact" alt="bircni" />
 </p>
+-->
