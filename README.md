@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h2 align="center">A passionate Java, Latex, HTML (& Swift) developer from Germany</h2>
+<h2 align="center">A passionate mobile app developer from Germany</h2>
 
 <p align="center">
   <img src="https://github.com/bircni/bircni/raw/output/github-contribution-grid-snake.svg" alt="snake">
@@ -7,6 +7,9 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+</a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </a>
@@ -34,9 +37,6 @@
 </a>
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
