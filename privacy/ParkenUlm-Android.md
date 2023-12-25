@@ -34,7 +34,7 @@ please contact us by [email](mailto:bircni@icloud.com).
 
 We reserve the right to update this privacy policy at any time.
 
-Starting with version `2.1`, the Android app uses the Aptabase Dependency
+Starting with version `2.3.1`, the Android app uses the Aptabase Dependency
 to collect anonymous usage data. This data is used to improve the app
 and its features and to fix errors. To get more information about the Aptabase
 Dependency, please have a look at the [Aptabase Privacy Policy](https://aptabase.com/legal/privacy).
@@ -47,6 +47,8 @@ We will collect the following data:
 - Your country
 - App version
 
-Last updated: \[22.06.2023\]
+Aptabase is only used for downloads from the Google PlayStore
+
+Last updated: \[25.12.2023\]
 
 [Back to main page](./README.md)
