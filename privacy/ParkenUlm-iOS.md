@@ -12,7 +12,7 @@ Our iOS app uses data obtained from
 [parken-in-ulm.de](https://www.parken-in-ulm.de/) to provide information
 within the app. However, we do not collect any personal data when you
 use our iOS app. We do not collect your name, email address, or phone
-number. In version `1.2.3` and later, we collect anonymous usage data to improve the app and its features. You can disable this data collection in the app settings. You can find more information about that down below.
+number. In version `1.2.3` and later, we collect anonymous usage data to improve the app and its features.
 
 Our iOS app does not use any third-party technologies to collect or
 track data about you. We also do not use tracking tools like cookies or
@@ -43,7 +43,6 @@ to collect anonymous usage data. This data is used to improve the app
 and its features and to fix errors. To get more information about the Aptabase
 Dependency, please have a look at the [Aptabase Privacy Policy](https://aptabase.com/legal/privacy).
 Data we collect will not be shared with third parties.
-The user can disable the data collection in the app settings.
 We will collect the following data:
 
 - iOS version
@@ -52,6 +51,6 @@ We will collect the following data:
 - Your country
 - App version
 
-Last updated: \[23.05.2023\]
+Last updated: \[25.04.2024\]
 
 [Back to main page](./README.md)
