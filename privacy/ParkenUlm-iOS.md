@@ -52,5 +52,3 @@ We will collect the following data:
 - App version
 
 Last updated: \[25.04.2024\]
-
-[Back to main page](./README.md)

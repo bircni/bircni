@@ -50,5 +50,3 @@ We will collect the following data:
 Aptabase is only used for downloads from the Google PlayStore
 
 Last updated: \[25.12.2023\]
-
-[Back to main page](./README.md)
